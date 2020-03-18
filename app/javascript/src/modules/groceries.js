@@ -161,5 +161,8 @@ export {
   getGroceries,
   groceries,
   handleNameChange,
-  postGrocery
+  postGrocery,
+  POST_GROCERY_REQUEST,
+  POST_GROCERY_REQUEST_SUCCESS,
+  POST_GROCERY_REQUEST_FAILURE
 }
